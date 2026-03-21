@@ -27,6 +27,6 @@ public class CasoEvaluado_1 {
         System.out.println("Lider: " + proyecto.getLiderProyecto());
         System.out.println("Promedio: " + proyecto.getPromedio());
         System.out.println("Clasificacion: " + proyecto.obtenerClasificacion());
-        //test
+        //test 2
     }
 }
