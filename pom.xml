@@ -6,8 +6,12 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.release>25</maven.compiler.release>
-        <exec.mainClass>cr.david.casoevaluado_1.CasoEvaluado_1</exec.mainClass>
-    </properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+    <maven.compiler.release>17</maven.compiler.release>
+
+    <exec.mainClass>cr.david.casoevaluado_1.CasoEvaluado_1</exec.mainClass>
+</properties>
 </project>
