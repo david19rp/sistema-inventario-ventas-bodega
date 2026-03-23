@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package cr.david.casoevaluado_1;
 
 /*
@@ -27,6 +23,9 @@ public class CasoEvaluado_1 {
         System.out.println("Lider: " + proyecto.getLiderProyecto());
         System.out.println("Promedio: " + proyecto.getPromedio());
         System.out.println("Clasificacion: " + proyecto.obtenerClasificacion());
-        //test 2
+
+        //todo corre bien
+        // no lo se Rick
+ main
     }
 }
